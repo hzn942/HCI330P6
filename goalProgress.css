@@ -1,0 +1,112 @@
+.goalProgress {
+	background: #fff;
+	padding: 3px;
+	border-radius: 10px;
+}
+
+.unhover {
+	text-decoration: underline;
+	font-weight: bolder;
+}
+
+div.progressBar {
+	background: #FF554C;
+	color: #fff;
+	font-size: 1.5em;
+	font-family: 'helvetica neue', helvetica, arial, sans-serif;
+	letter-spacing: -1px;
+	font-weight: 700;
+	display: block;
+	overflow: hidden;
+	width: 20px;
+	border-radius: 10px;
+	height: 25px;
+}
+
+div.progressBarb {
+	background: #FF554C;
+	color: #fff;
+	font-size: 1.5em;
+	font-family: 'helvetica neue', helvetica, arial, sans-serif;
+	letter-spacing: -1px;
+	font-weight: 700;
+	display: block;
+	overflow: hidden;
+	width: 20px;
+	border-radius: 10px;
+}
+
+span.goalAmount {
+	display: none;
+	text-indent: -9999px;
+}
+
+#sample_goal {
+  margin: 2px;
+  margin-top: -5px;
+  margin-left: 60px;
+
+}
+
+.player {
+	float: left;
+	display: block;
+	width: 90%;
+}
+.player10 {
+	float: left;
+	display: block;
+	width: 90%;
+}
+.player9 {
+	float: left;
+	display: block;
+	width: 90%;
+}
+.player8 {
+	float: left;
+	display: block;
+	width: 90%;
+}
+.player7 {
+	float: left;
+	display: block;
+	width: 90%;
+}
+.player6 {
+	float: left;
+	display: block;
+	width: 90%;
+}
+.player5 {
+	float: left;
+	display: block;
+	width: 90%;
+}
+.player4 {
+	float: left;
+	display: block;
+	width: 90%;
+}
+.player3 {
+	float: left;
+	display: block;
+	width: 90%;
+}
+
+.player2 {
+	float: left;
+	display: block;
+	width: 90%;
+}
+.player1 {
+	float: left;
+	display: block;
+	width: 90%;
+}
+
+
+.headmine {
+	border: solid #FF554C 6px;
+}
+

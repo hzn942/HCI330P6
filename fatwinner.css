@@ -1,0 +1,328 @@
+body,div,ul,li{  
+  
+ margin:0 auto;  
+  
+ padding:0;  
+
+ font-family: sans-serif;
+  
+}  
+  
+body{  
+  
+ font:12px;  
+
+
+  
+}  
+  
+a:link{  
+  
+ color:#00F;  
+  
+ text-decoration:none;  
+  
+}  
+  
+a:visited {  
+  
+ color: #00F;  
+  
+ text-decoration:none;  
+  
+}  
+  
+a:hover {  
+  
+ color: #c00;  
+  
+ text-decoration:underline;  
+  
+}  
+  
+ul{  
+  
+ list-style:none;  
+  
+}  
+  
+.main{  
+  
+ clear:both;  
+  
+ padding:8px;  
+  
+ text-align:center;  
+  
+}  
+
+
+#fatwinner {
+    height: 600px;
+    width: 400px;   
+    border: 1px solid #cbcbcb;
+    box-shadow:3px 3px 20px black; 
+}
+  
+#tabs0 {  
+  
+ height: 536px;  
+  
+ width: 400px;  
+
+  
+  
+  
+ background-color: #F3F9EF; 
+
+  
+}  
+  
+.menu0{  
+  
+ width: 400px;
+ height: 20px;
+
+  
+}  
+  
+.menu0 li{  
+  
+ display:block;  
+  
+ float: left;  
+  
+ padding: 4px 0;  
+  
+ width:100px;  
+  
+ text-align: center;  
+  
+ cursor:pointer;  
+  
+ background: #00EBCC; 
+ color: white;
+  
+}  
+  
+.menu0 li.hover{  
+  
+ background: #F3F9EF;
+ /*box-shadow:2px -2px 1px 0.5px black; */
+ color:#00EBCC;/*dark*/
+ font-weight: bolder;
+ font-size: 19px;
+
+  
+}   
+  
+#main0 ul{  
+  
+ display: none;  
+  
+}  
+  
+#main0 ul.block{  
+  
+ display: block;  
+  
+}  
+
+#weight-scrollbar {
+height: 260px;
+width:384px;
+margin-top: 236px;
+background: green;
+overflow: auto;
+font-size: 18px;
+}
+
+#container {
+  float:left;
+  width:380px;
+  height:130px;
+}
+#container2 {
+  float:left;
+  width:380px;
+  height:80px;
+}
+#container3 {
+  float:left;
+  width:380px;
+  height:80px;
+}
+#container4 {
+  float:left;
+  width:380px;
+  height:80px;
+}
+
+#personalbasic {
+  float:left;
+
+}
+
+#headpics {
+  width:100px;
+  height:100px;
+  border-radius: 50%;
+  background-size: 100px, 100px;
+  background-position: 50%;
+  overflow: hidden;
+  text-align:center;
+  
+
+}
+
+
+#profile {
+  height: 480px;
+  overflow: hidden;
+
+}
+
+#headname {
+  float:left;
+  width:100px;
+  height:30px;
+  margin-top: 3px;
+  font-size: 5px;
+  /*background: lightyellow;*/
+}
+
+
+#chart {
+   float:left;
+   margin: 10px;
+   margin-top: -12px;
+}
+
+#weightdiv {
+  float: left;
+  margin: -8px;
+  margin-left: 50px;
+}
+
+#numberlb {
+  float: left;
+  margin: 5px;
+  margin-left: 10px;
+  font-size: 35px;
+  font-weight: bold;
+  color: #FF554C;
+}
+
+#lb {
+  float: left;
+  margin: 5px;
+  font-size: 25px;
+  font-weight: bold;
+  color: #FF554C;
+}
+
+#inputnum {
+  float: left;
+  margin: 5px;
+  margin-top: -5px;
+  height: 30px;
+  border-radius: 5px;
+  width: 60px;
+
+}
+
+button {
+  background-color:#FF554C;
+  color: white;
+  height: 30px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+#update {
+  float: left;
+  margin: 5px;
+  margin-top: -4px;
+
+}
+
+
+
+
+
+#info {
+  width:384px;
+  height:500px;
+}
+.caption {
+  text-align: left;
+  font-size: 22px;
+  color: #00EBCC;
+  font-weight: bold;
+  
+}
+
+  
+/*loadbar*/
+  
+#prog {  
+   width: 300px;  
+   height: 28px;  
+   border: 3px solid #212121;  
+   border-radius: 20px;  
+   position: relative;  
+} 
+
+#moneyyoucanget {
+  float:left;
+  font-size: 40px;
+  font-weight: bold;
+  color: #FF554C;
+  float: left;
+  margin-left: 60px;
+  margin-right: 10px;
+  width:80px;
+}
+
+#moneyyoudeposit {
+  float:left;
+  margin-left: 5px;
+  font-size: 25px;
+  color: #00EBCC;
+}
+#rank{
+  overflow: auto;
+  overflow-x: hidden;
+  height:500px;
+}
+#headname {
+  color:#00EBCC;
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+#rankprog { 
+  margin-top: 35px;
+  margin-left: 140px;
+}
+
+#static {
+  height: 500px;
+  overflow: auto;
+  overflow-x:hidden;
+}
+
+
+
+
+
+
+body {
+  text-align: center;
+}
+
+.line {
+  height: 10px;
+  width: 400px;
+  color: lightgrey;
+}
