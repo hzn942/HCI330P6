@@ -1,0 +1,298 @@
+button {
+	float: left;
+
+	height:60px;
+	width:200px;
+	font-size: 36px;
+	border-radius: 15px;
+	color:rgb(87,226,202);
+	background-color: white;
+	font-family: sans-serif;
+	font-weight: bold;
+	box-shadow:0px 0px 0px 2px lightgreen;
+
+
+	border-radius: 10px;
+	border: none;
+
+	cursor: pointer;
+	box-shadow: 0px 0px 1px rgb(20,20,20), 0px -2px 4px rgb(40,40,40) inset;
+	font-size: 150%;
+	position: relative;
+
+}
+button:active {
+	background: rgb(172,172,172);
+    box-shadow: 0px 0px 20px rgb(20,20,20), 0px 2px 5px 0px rgb(20,20,20) inset;
+}
+
+input {
+
+
+	float: left;
+    border-radius: 4px;
+    border: none;
+	position: relative;
+    
+	font-size: 24px;
+}
+#start {
+	margin-top: -135px;
+	margin-left:90px;
+
+}
+#login {
+	margin-top:  -394px;
+	margin-left:90px;
+}
+
+#register {
+
+	margin-top:-326px;
+	margin-left:90px;
+}
+
+
+
+#back {
+	margin-top: -620px;
+	opacity: 0.001;
+}
+
+#loginii {
+	margin-top: -156px;
+	margin-left:90px;
+}
+#usernameii{
+	float: left;
+	margin-top: -349px;
+	margin-left: 63px;
+	height:42px;
+	width:250px;
+}
+#passwordii{
+	margin-top: -230px;
+	margin-left: 63px;
+	height:42px;
+	width:250px;
+}
+
+#amountii{
+	margin-top: -350px;
+	margin-left: 63px;
+	height:42px;
+	width:248px;
+}
+#BAnumber{
+	margin-top: -236px;
+	margin-left: 63px;
+	height:42px;
+	width:248px;
+}
+
+#submitii {
+	margin-top:-162px;
+	margin-left:92px;
+
+}
+#cancelii {
+	margin-top:-96px;
+	margin-left:92px;
+}
+
+/**************/
+
+
+
+
+#name{
+	margin-top: -375px;
+	margin-left:187px;
+    height:35px;
+	width:125px;
+
+}
+
+#age{
+	margin-top: -325px;
+	margin-left:187px;
+    height:35px;
+	width:125px;
+}
+
+#gender{
+	margin-top: -276px;
+	margin-left:187px;
+    height:35px;
+	width:125px;
+}
+
+#height{
+	margin-top: -225px;
+	margin-left:187px;
+    height:35px;
+	width:125px;
+}
+
+#weight{
+	margin-top: -172px;
+	margin-left:187px;
+    height:35px;
+	width:125px;
+}
+
+#line1{
+	margin-top: -460px;
+	margin-left:112px;
+    height:35px;
+	width:227px;
+}
+
+#line2{
+	margin-top: -410px;
+	margin-left:112px;
+    height:35px;
+	width:227px;
+}
+
+#country{
+	margin-top: -351px;
+	margin-left:146px;
+    height:35px;
+	width:125px;
+}
+
+#state{
+	margin-top: -297px;
+	margin-left:146px;
+    height:35px;
+	width:125px;
+}
+
+#zip{
+	margin-top: -241px;
+	margin-left:143px;
+    height:35px;
+	width:126px;
+}
+
+#email{
+	margin-top: -147px;
+	margin-left:51px;
+    height:35px;
+	width:290px;
+}
+
+#username{
+	margin-top: -435px;
+	margin-left:62px;
+    height:45px;
+	width:251px;
+}
+
+#password{
+	margin-top: -321px;
+	margin-left:62px;
+    height:45px;
+	width:251px;
+}
+
+#amount{
+	margin-top: -332px;
+	margin-left:80px;
+    height:35px;
+	width:200px;
+}
+
+#bankaccount0{
+	margin-top: -254px;
+	margin-left:29px;
+    height:35px;
+	width:65px;
+}
+
+#bankaccount1{
+	margin-top: -254px;
+	margin-left:106px;
+    height:35px;
+	width:65px;
+}
+
+#bankaccount2{
+	margin-top: -254px;
+	margin-left:183px;
+    height:35px;
+	width:65px;
+}
+
+#bankaccount3{
+	margin-top: -254px;
+	margin-left:260px;
+    height:35px;
+	width:65px;
+}
+
+#securitynum{
+	margin-top: -167px;
+	margin-left:144px;
+    height:35px;
+	width:66px;
+}
+
+
+
+
+
+#next{
+	margin-top: -80px;
+	margin-left:85px;
+}
+
+#verify_now{
+    margin-top: -210px;
+	margin-left:85px;
+}
+
+#verify_later{
+    margin-top: -130px;
+	margin-left:85px;
+}
+
+#yes{
+	height:40px;
+	width:90px;
+
+	margin-top: -150px;
+	margin-left:55px;
+}
+
+#no{
+	height:40px;
+	width:90px;
+	margin-top: -150px;
+	margin-left:230px;
+}
+
+#select{
+	height:30px;
+	width:80px;
+	margin-top: -180px;
+	margin-left:255px;
+}
+
+#submit{
+	height:40px;
+	width:100px;
+
+	margin-top: -90px;
+	margin-left:60px;
+}
+
+#cancel{
+	height:40px;
+	width:100px;
+	margin-top: -90px;
+	margin-left:215px;
+}
+
+
